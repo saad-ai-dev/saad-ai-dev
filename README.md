@@ -1,155 +1,215 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,2,6&height=200&section=header&text=Saad%20Sohail&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%7C%20AI%20Automation%20Specialist%20%7C%20Prompt%20Engineer&descAlignY=58&descSize=15&descColor=a8b2d8" width="100%" />
 </div>
 
-<h1 align="center">
-  Hey, I'm Saad Sohail 👋
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=700&lines=5+Years+Building+Production+Systems+%F0%9F%9A%80;AI+Automation+with+Claude+Code+%2B+Codex+%2B+Gemini+%F0%9F%A4%96;Fine-tuning+GPT-4+%7C+LLM+Integration+Specialist+%F0%9F%A7%A0;Full-Stack+MERN+%7C+TypeScript+%7C+AWS+Cloud+%E2%98%81%EF%B8%8F;Prompt+Engineering+%7C+Scalable+APIs+%7C+Clean+Code+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <b>Senior Full-Stack Engineer · AI Automation Specialist · Prompt Engineer</b><br/>
-  <i>5 years building scalable systems, integrating AI, and shipping clean code</i>
-</p>
+<br/>
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/saad-sohail-aa135b172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="https://github.com/rishat5081" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
   <a href="https://stackoverflow.com/users/10967697/engineer-s-saad" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sohail_s_97/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>&nbsp;
   <a href="https://boring-kare-43feb9.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:engr.saadsohail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/sohail_s_97/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Who Am I?
 
-Full-stack engineer with **5 years of experience** designing, developing, and deploying production-grade software. Currently working as a **Senior Full-Stack Engineer at Obenan**, where I build scalable APIs, integrate AI-driven features, and manage cloud infrastructure on AWS.
+```typescript
+const saad = {
+  title:       "Senior Full-Stack Engineer",
+  location:    "Lahore, Pakistan 🇵🇰",
+  experience:  "5+ years",
+  current:     "Obenan — building AI-powered business APIs",
+  education:   "B.Sc Software Engineering · NUML Islamabad",
 
-Beyond traditional engineering, I specialize in **AI automation** — building intelligent workflows using Claude Code, OpenAI Codex, and Gemini, and crafting precise **prompt engineering** strategies to maximize LLM performance in real-world systems.
+  superpower:  "Turning complex problems into elegant, scalable solutions",
 
-- 🔭 Currently building AI-powered automation systems and integrations
-- 🤖 Working with **Claude Code**, **OpenAI Codex**, and **Google Gemini** for AI-driven development
-- 🧠 Fine-tuned GPT-3, GPT-3.5 Turbo, GPT-4, and GPT-4o Mini for production use cases
-- 🌍 Lahore, Pakistan — open to remote opportunities
-- 📫 Reach me: **engr.saadsohail@gmail.com**
+  ai_stack:    ["Claude Code", "OpenAI Codex", "Google Gemini", "GPT-4o"],
+  llm_work:    ["Fine-tuning", "RAG Systems", "Prompt Engineering", "AI Automation"],
+
+  core_stack:  ["Node.js", "React", "Next.js", "TypeScript", "MongoDB", "AWS"],
+
+  currently:   ["Building AI automation workflows 🤖",
+                "Integrating LLMs into production systems 🧠",
+                "Prompt engineering for enterprise use cases ✍️"],
+
+  fun_fact:    "I automate things that were never meant to be automated 😄",
+};
+```
 
 ---
 
-## 🤖 AI & Automation
+## 🤖 AI & Automation — My Edge
 
-> Building intelligent systems is my current edge.
+<div align="center">
 
-| Tool | Use Case |
-|------|----------|
-| **Claude Code (Anthropic)** | Agentic coding workflows, automated code reviews, multi-file refactoring |
-| **OpenAI Codex** | Code generation, test automation, developer tooling |
-| **Google Gemini** | Multimodal pipelines, content automation, AI integrations |
-| **OpenAI GPT-4 / GPT-4o** | Conversational AI, fine-tuning, RAG systems |
-| **Prompt Engineering** | Structured prompts, chain-of-thought, few-shot patterns for production LLMs |
+| 🧠 Tool | ⚙️ What I Build With It |
+|:---|:---|
+| **Claude Code (Anthropic)** | Agentic dev workflows · multi-file refactoring · automated code review |
+| **OpenAI Codex** | Code generation pipelines · test automation · developer tooling |
+| **Google Gemini** | Multimodal AI pipelines · content automation · vision integrations |
+| **GPT-4 / GPT-4o Fine-tuning** | Custom model training · RAG systems · conversational AI |
+| **Prompt Engineering** | Chain-of-thought · few-shot patterns · structured outputs for production |
+| **AI API Integration** | OpenAI · Anthropic · Google AI — REST & SDK level integrations |
+
+</div>
+
+> 💬 *"I don't just use AI tools — I build systems that leverage them to solve real business problems at scale."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Full Tech Arsenal
 
-### Languages & Runtimes
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🌐 Languages & Runtimes
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,bash&theme=dark" />
+</div>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-</p>
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,redux,materialui,tailwind,graphql&theme=dark" />
+</div>
 
-### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
+### ⚙️ Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express,graphql,nginx,redis,jest,jest&theme=dark" />
+</div>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-</p>
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
+</div>
 
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,jenkins,gitlab,git&theme=dark" />
+</div>
 
-### AI & LLM Tools
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+### 🤖 AI & LLM Ecosystem
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-8E75B2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-00897B?style=for-the-badge&logoColor=white" />
+</div>
 
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ITGlue-003366?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoTask-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-</p>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishat5081&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishat5081&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishat5081&hide_border=true&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishat5081&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=a8b2d8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishat5081&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=6AD3F7&text_color=a8b2d8" width="41%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishat5081&hide_border=true&theme=tokyonight" width="60%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishat5081&hide_border=true&theme=tokyonight&background=0d1117&ring=6AD3F7&fire=ff6b6b&currStreakLabel=6AD3F7" width="60%" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishat5081&style=flat-square&color=blue" />
-  <br/>
-  <i>Open to exciting opportunities — let's build something great together.</i>
-</p>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=80&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishat5081&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" width="98%" />
+</div>
+
+---
+
+## 💼 Work Experience Snapshot
+
+```
+🏢  Obenan                  Senior Full-Stack Engineer      May 2023 – Present
+    ├── AI/LLM integrations (GPT-3 → GPT-4o fine-tuning)
+    ├── AWS infrastructure (EC2, S3, VPC, ELB, CodePipeline)
+    ├── Business Performance, Location & Review API systems
+    └── Scalable architectures for AI-driven conversational systems
+
+🏢  Agile District           Senior Backend Developer        Feb 2022 – May 2023
+    ├── High-availability Node.js + MongoDB systems
+    ├── Real-time notifications via Socket.IO
+    ├── AWS Pipeline + Elastic Beanstalk CI/CD
+    └── Automated testing: Chai, Mocha, Chai HTTP
+
+🏢  Zamulk.com              Software Engineer               Jan 2020 – Jan 2022
+    ├── RESTful API design & implementation
+    ├── Server-side integration & data storage solutions
+    └── Security implementation & code optimization
+```
+
+---
+
+## 🎯 What I'm Currently Focused On
+
+<table>
+  <tr>
+    <td width="50%">
+
+**🔨 Building**
+- AI automation pipelines with Claude Code & Codex
+- Production-grade LLM integrations
+- Intelligent job scraping & data systems
+
+    </td>
+    <td width="50%">
+
+**📚 Leveling Up**
+- Advanced prompt engineering patterns
+- Multi-agent AI system design
+- Kubernetes & cloud-native architecture
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishat5081&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS" />
+  <br/><br/>
+  <b>💡 Open to exciting remote opportunities — let's build something extraordinary together.</b>
+  <br/>
+  <sub>📧 engr.saadsohail@gmail.com &nbsp;|&nbsp; 📱 +92-303-5229779</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,2,6&height=120&section=footer" width="100%" />
 </div>
