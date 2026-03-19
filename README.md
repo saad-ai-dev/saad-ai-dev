@@ -93,7 +93,17 @@ const saad = {
 
 ### ⚙️ Backend & APIs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=express,graphql,nginx,redis,jest,jest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,graphql,nginx,redis,sequelize,postman&theme=dark" />
+</div>
+
+### 🧪 Testing
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chai-A40000?style=for-the-badge&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-1A1A2E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ### 🗄️ Databases
@@ -103,7 +113,15 @@ const saad = {
 
 ### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,jenkins,gitlab,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,jenkins,gitlab,git,linux,nginx&theme=dark" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 ### 🤖 AI & LLM Ecosystem
@@ -112,9 +130,11 @@ const saad = {
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Fine--Tuning-8E75B2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Systems-00897B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-6C63FF?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -146,10 +166,16 @@ const saad = {
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake — Live
+
+> Regenerates automatically every 12 hours via GitHub Actions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishat5081&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" width="98%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishat5081/rishat5081/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishat5081/rishat5081/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/rishat5081/rishat5081/output/github-snake-dark.svg" width="98%" />
+  </picture>
 </div>
 
 ---
@@ -219,4 +245,5 @@ const saad = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,2,6&height=120&section=footer" width="100%" />
 </div>
+
 
