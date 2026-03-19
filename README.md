@@ -119,10 +119,16 @@ const saad = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishat5081&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishat5081&theme=tokyonight" width="98%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishat5081&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishat5081&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishat5081&theme=tokyonight" width="32%" />
 </div>
 
 ---
@@ -213,3 +219,4 @@ const saad = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,2,6&height=120&section=footer" width="100%" />
 </div>
+
